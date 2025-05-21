@@ -2,8 +2,8 @@
 
 int main(){
 
-	int i =0;
-	int k =0;
+	int i =1;
+	int j =1;
 
 	return 0;
 
